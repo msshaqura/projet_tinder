@@ -1,3 +1,14 @@
+---
+title: Tinder Speed Dating Analysis
+emoji: 🔥
+colorFrom: pink
+colorTo: red
+sdk: streamlit
+sdk_version: "1.28.0"
+app_file: app.py
+pinned: false
+---
+
 # 🔥 Tinder Speed Dating Analysis
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/msshaqura/tinder_projet)
